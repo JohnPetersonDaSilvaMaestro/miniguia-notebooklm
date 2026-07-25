@@ -1,3 +1,4 @@
+#Em andamento
 # miniguia-notebooklm
 Miniguia criado no bootcamp da DIO com o Bradesco.
 Contexto e Objetivos: Escolhi fazer o miniguia com conteúdo cobrado em concursos públicos. Peguei algumas provas de uma banca específica e pedi uma apostila com o conteúdo que caiu nas provas.
